@@ -1,0 +1,7 @@
+[
+  { "id": "u-admin-1", "username": "admin", "password": "Admin!2026", "role": "admin", "fullName": "Адміністратор системи" },
+  { "id": "u-operator-1", "username": "operator_kyiv", "password": "kyiv123", "role": "operator", "fullName": "Оператор (Київ)" },
+  { "id": "u-operator-2", "username": "operator_kr", "password": "krory456", "role": "operator", "fullName": "Оператор (Кривий Ріг)" },
+  { "id": "u-operator-3", "username": "operator_od", "password": "odesa789", "role": "operator", "fullName": "Оператор (Одеса)" },
+  { "id": "u-viewer-1", "username": "viewer", "password": "viewer000", "role": "viewer", "fullName": "Спостерігач (тільки перегляд)" }
+]

@@ -1,0 +1,6 @@
+eco-monitoring-lr1/node_modules/
+eco-monitoring-lr1/.next/
+eco-monitoring-lr1/.env
+eco-monitoring-lr1/.env.local
+.DS_Store
+.~lock.*

@@ -1,0 +1,7 @@
+[
+  { "id": "ST-001", "name": "Станція «Поділ»", "city": "Київ", "lat": 50.4680, "lon": 30.5170, "ownerUserId": "u-operator-1", "apiKey": "sk_live_pod_2f9a1c", "status": "online" },
+  { "id": "ST-002", "name": "Станція «Оболонь»", "city": "Київ", "lat": 50.5010, "lon": 30.4980, "ownerUserId": "u-operator-1", "apiKey": "sk_live_obl_7b3d0e", "status": "online" },
+  { "id": "ST-003", "name": "Станція «Лівобережна»", "city": "Київ", "lat": 50.4520, "lon": 30.6010, "ownerUserId": "u-operator-2", "apiKey": "sk_live_lvb_11c8aa", "status": "online" },
+  { "id": "ST-004", "name": "Станція «Індустріальна»", "city": "Кривий Ріг", "lat": 47.9110, "lon": 33.3910, "ownerUserId": "u-operator-2", "apiKey": "sk_live_ind_9d4f22", "status": "maintenance" },
+  { "id": "ST-005", "name": "Станція «Порт»", "city": "Одеса", "lat": 46.4870, "lon": 30.7410, "ownerUserId": "u-operator-3", "apiKey": "sk_live_prt_5e0b91", "status": "offline" }
+]
