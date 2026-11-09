@@ -1,0 +1,28 @@
+{
+  "name": "ecomonitoring-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Навчальний застосунок моніторингу якості повітря для курсу «Безпека вебзастосунків»",
+  "engines": {
+    "node": ">=22.22.2"
+  },
+  "scripts": {
+    "predev": "node scripts/ensure-env.js",
+    "dev": "node --env-file=.env src/server.js",
+    "preseed": "node scripts/ensure-env.js",
+    "seed": "node --env-file=.env scripts/seed.js",
+    "mock": "node scripts/mock-upstream.js"
+  },
+  "dependencies": {
+    "argon2": "^0.44.0",
+    "better-sqlite3": "^12.0.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.0"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^10.0.0"
+  }
+}
